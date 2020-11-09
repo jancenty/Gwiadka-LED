@@ -1,0 +1,2 @@
+There are many symbols of Christmas. One of them are stars.
+Therefore, in anticipation of the day of decorating the Christmas tree, we propose to make a simple LED stars system.
